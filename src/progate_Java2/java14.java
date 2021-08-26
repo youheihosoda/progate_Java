@@ -1,3 +1,4 @@
+package progate_Java2;
 
 public class java14 {
 	public static void main(String[] args) {
