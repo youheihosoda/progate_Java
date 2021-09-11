@@ -1,3 +1,4 @@
+package progate_Java5;
 
 public class java4 {
 	public static void main(String[] args) {

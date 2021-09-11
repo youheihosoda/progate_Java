@@ -1,3 +1,4 @@
+package progate_Java5;
 
 public class java4_1 {
 	// インスタンスフィールドnameを定義してください

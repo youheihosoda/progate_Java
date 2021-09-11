@@ -1,3 +1,4 @@
+package progate_Java5;
 
 public class java6_1 {
 	public String name;
